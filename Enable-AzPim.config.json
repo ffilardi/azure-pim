@@ -1,0 +1,12 @@
+{
+  "resourceGroups": [
+    "az-rg-dev",
+    "az-rg-uat",
+    "az-rg-prod"
+  ],
+  "role": "Contributor",
+  "duration": "8h",
+  "justification": "Daily operational support",
+  "ticketNumber": "N/A",
+  "ticketSystem": "N/A"
+}
